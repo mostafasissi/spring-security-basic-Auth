@@ -1,0 +1,2 @@
+GET http://localhost:8080/navigation/destination
+Authorization: Basic Mike:passw@d
